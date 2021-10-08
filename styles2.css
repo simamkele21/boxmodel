@@ -1,9 +1,17 @@
+.P1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  color: ghostwhite;
+}
+
 style * {
   margin: 0px;
   padding: 0px;
+
 }
 body {
   font-family: arial;
+  background-image: url(Amazing-HD-Black-Backgrounds.jpeg);
 }
 .main {
   margin: 2%;
@@ -16,6 +24,7 @@ body {
   border-radius: 5px;
   margin: 2%;
   grid-template-columns: repeat(2, 1fr);
+  color: rgb(149, 253, 107);
 }
 
 .image img {
